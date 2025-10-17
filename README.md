@@ -7,7 +7,7 @@
 
 ### 📬 Contact Me
 - 📧 **E-posta:** **kaancoskun5038@gmail.com**
-- ⚡ **Hakkımda:** Boş zamanlarımda Arduino ile projeler yapmaktan keyif alırım!
+- ⚡ **Hakkımda:** I like making arduino projects and learning new things about programming in my free time!
 
 ---
 
