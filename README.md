@@ -46,18 +46,18 @@
 ### 📊 GitHub Statistics
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coskunkaan1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="coskunkaan1'in en çok kullandığı diller" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coskunkaan1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CoskunKaan1'in en çok kullandığı diller" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=coskunkaan1&show_icons=true&locale=en&theme=tokyonight" alt="coskunkaan1'in github istatistikleri" />
+    <img src="https://github-readme-stats.vercel.app/api?username=coskunkaan1&show_icons=true&locale=en&theme=tokyonight" alt="CoskunKaan1'in github istatistikleri" />
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=coskunkaan1&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="coskunkaan1'in profil görüntülenme sayısı" />
+    <img src="https://komarev.com/ghpvc/?username=coskunkaan1&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="CoskunKaan1'in profil görüntülenme sayısı" />
   </p>
 </div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=coskunkaan1&theme=tokyonight" alt="coskunkaan1'in kupaları" />
+    <img src="https://github-profile-trophy.vercel.app/?username=CoskunKaan1&theme=tokyonight" alt="CoskunKaan1'in kupaları" />
   </a>
 </div>
