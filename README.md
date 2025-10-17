@@ -1,17 +1,17 @@
 <div align="center">
-  <h1 align="center">Merhaba, ben Kaan 👋</h1>
-  <h3 align="center">Veri bilimi ve mobil uygulama geliştirme tutkunuyum.</h3>
+  <h1 align="center">Hello, I'm Kaan 👋</h1>
+  <h3 align="center">I am love image processing and embedded systems</h3>
 </div>
 
 ---
 
-### 📬 Bana Ulaşın
+### 📬 Contact Me
 - 📧 **E-posta:** **kaancoskun5038@gmail.com**
-- ⚡ **Hakkımda:** Boş zamanlarımda Arduino ile otomasyon projeleri yapmaktan keyif alırım!
+- ⚡ **Hakkımda:** Boş zamanlarımda Arduino ile projeler yapmaktan keyif alırım!
 
 ---
 
-### 🔗 Sosyal Medya Hesaplarım
+### 🔗 My Social Media Accounts
 <p align="center">
   <a href="https://www.linkedin.com/in/kaan-coşkun-514233318/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -23,11 +23,12 @@
 
 ---
 
-### 💻 Kullandığım Diller ve Araçlar
+### 💻 Languages ​​and Tools I Use
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -42,7 +43,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Statistics
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coskunkaan1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="coskunkaan1'in en çok kullandığı diller" />
