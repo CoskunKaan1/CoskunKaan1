@@ -1,44 +1,35 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba%2C+I'm+Kaan+Coskun!+%F0%9F%91%8B; Embedded+Systems+Developer;Computer+Vision+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3895D3&center=true&vCenter=true&width=435&lines=Hello,+I'm+Kaan+Coskun!+%F0%9F%91%8B;Teknofest+Competitor+%F0%9F%9A%80;Embedded+Systems+%26+Computer+Vision;Python+%26+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🚀 Teknofest Competitor | Embedded Systems | AI Enthusiast</h3>
+  <h3>🚀 Teknofest Competitor | Embedded Systems | Computer Vision</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a developer passionate about **Image Processing**, **Embedded Systems**, and **Object Oriented Programming**. I love turning complex problems into working code.
+I am a passionate developer interested in **Image Processing**, **Embedded Systems**, and **Object-Oriented Programming (OOP)**. I love turning complex problems into working code.
 
-- 🔭 I’m currently finished working on a **Car Rental Management System** with **Python (PyQt5)**.
-- 🌱 I’m preparing for **Teknofest Air Defense Competition** using **YOLO & Computer Vision**.
-- 💡 I also developed **Patient Monitoring Systems** using **Java**.
-- ⚡ **Fun fact:** I love making Arduino projects and learning logic design!
+- 🔭 I’m currently finished working on a **Car Rental Management System** using **Python (PyQt5)**.
+- 🌱 I’m preparing for the **Teknofest Air Defense Competition** focusing on **YOLO & Computer Vision**.
+- 💡 I also developed **Patient Monitoring Systems** using **Java** with my friend.
+- ⚡ **Fun fact:** I enjoy building **Arduino** & **Computer Vision** projects in my free time!
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages and Tools
 
 <div align="center">
 
-| **Languages** | **Embedded & AI** | **Tools & Database** |
+| **Programming Languages** | **Embedded & AI** | **Tools** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs" width="200" /> | <img src="https://skillicons.dev/icons?i=arduino,opencv,pytorch" width="130" /> | <img src="https://skillicons.dev/icons?i=git,mysql,vscode,idea,android" width="200" /> |
+| <img src="https://skillicons.dev/icons?i=python,java,cpp,c" width="250" /> | <img src="https://skillicons.dev/icons?i=arduino,opencv,pytorch" width="200" /> | <img src="https://skillicons.dev/icons?i=git,vscode,idea,ps" width="250" /> |
 
 </div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
 ---
 
