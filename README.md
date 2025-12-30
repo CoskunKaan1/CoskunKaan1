@@ -45,24 +45,25 @@ I am a developer passionate about **Image Processing**, **Embedded Systems**, an
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=CoskunKaan1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kaan's Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coskunkaan1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Kaan's Top Languages" height="180" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=coskunkaan1&theme=tokyonight&no-frame=true&margin-w=15" alt="Kaan's Trophies" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=CoskunKaan1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="CoskunKaan1 GitHub Stats" height="180" />
   </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoskunKaan1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="CoskunKaan1 Top Languages" height="180" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CoskunKaan1&theme=tokyonight&no-frame=true&margin-w=15" alt="CoskunKaan1 Trophies" />
+  </a>
+  
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=coskunkaan1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Kaan's Profile Views" />
+  
+  <img src="https://komarev.com/ghpvc/?username=CoskunKaan1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="CoskunKaan1 Profile Views" />
 </div>
 
 ---
