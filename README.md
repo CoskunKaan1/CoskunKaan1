@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba%2C+I'm+Kaan+Coskun!+%F0%9F%91%8B;Embedded+Systems+Developer;Computer+Vision+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba%2C+I'm+Kaan+Coskun!+%F0%9F%91%8B; Embedded+Systems+Developer;Computer+Vision+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -14,9 +14,9 @@
 
 I am a developer passionate about **Image Processing**, **Embedded Systems**, and **Object Oriented Programming**. I love turning complex problems into working code.
 
-- 🔭 I’m currently working on a **Car Rental Management System** with **Python (PyQt5)**.
+- 🔭 I’m currently finished working on a **Car Rental Management System** with **Python (PyQt5)**.
 - 🌱 I’m preparing for **Teknofest Air Defense Competition** using **YOLO & Computer Vision**.
-- 💡 I also develop **Patient Monitoring Systems** using **Java**.
+- 💡 I also developed **Patient Monitoring Systems** using **Java**.
 - ⚡ **Fun fact:** I love making Arduino projects and learning logic design!
 
 ---
@@ -48,7 +48,7 @@ I am a developer passionate about **Image Processing**, **Embedded Systems**, an
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=coskunkaan1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kaan's Stats" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CoskunKaan1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kaan's Stats" height="180" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coskunkaan1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Kaan's Top Languages" height="180" />
