@@ -1,63 +1,82 @@
 <div align="center">
-  <h1 align="center">Hello, I'm Kaan 👋</h1>
-  <h3 align="center">I am love image processing and embedded systems</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba%2C+I'm+Kaan+Coskun!+%F0%9F%91%8B;Embedded+Systems+Developer;Computer+Vision+Enthusiast;Python+%26+Java+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🚀 Teknofest Competitor | Embedded Systems | AI Enthusiast</h3>
 </div>
 
 ---
 
-### 📬 Contact Me
-- 📧 **E-posta:** **kaancoskun5038@gmail.com**
-- ⚡ **Hakkımda:** I like making arduino projects and learning new things about programming in my free time!
+### 👨‍💻 About Me
+
+I am a developer passionate about **Image Processing**, **Embedded Systems**, and **Object Oriented Programming**. I love turning complex problems into working code.
+
+- 🔭 I’m currently working on a **Car Rental Management System** with **Python (PyQt5)**.
+- 🌱 I’m preparing for **Teknofest Air Defense Competition** using **YOLO & Computer Vision**.
+- 💡 I also develop **Patient Monitoring Systems** using **Java**.
+- ⚡ **Fun fact:** I love making Arduino projects and learning logic design!
 
 ---
 
-### 🔗 My Social Media Accounts
+### 🛠️ Languages & Tools
+
+<div align="center">
+
+| **Languages** | **Embedded & AI** | **Tools & Database** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs" width="200" /> | <img src="https://skillicons.dev/icons?i=arduino,opencv,pytorch" width="130" /> | <img src="https://skillicons.dev/icons?i=git,mysql,vscode,idea,android" width="200" /> |
+
+</div>
+
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=coskunkaan1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kaan's Stats" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coskunkaan1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Kaan's Top Languages" height="180" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=coskunkaan1&theme=tokyonight&no-frame=true&margin-w=15" alt="Kaan's Trophies" />
+  </a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=coskunkaan1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Kaan's Profile Views" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:kaancoskun5038@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/kaan-coşkun-514233318/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/kaancskn32/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 💻 Languages ​​and Tools I Use
-<p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coskunkaan1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CoskunKaan1'in en çok kullandığı diller" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=coskunkaan1&show_icons=true&locale=en&theme=tokyonight" alt="CoskunKaan1'in github istatistikleri" />
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=coskunkaan1&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="CoskunKaan1'in profil görüntülenme sayısı" />
-  </p>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CoskunKaan1&theme=tokyonight" alt="CoskunKaan1'in kupaları" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
